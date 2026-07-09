@@ -100,7 +100,7 @@ Future Improvements
 
 Author
 
-Philip Oppong Frimpong
+Philip Frimpong Oppong 
 
 Geological Engineering | Geostatistics | Mining Geology | Python | GIS | Mineral Resource Estimation
 
